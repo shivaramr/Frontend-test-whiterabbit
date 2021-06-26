@@ -1,0 +1,20 @@
+.card{
+    height: 10rem;
+    width: 15rem;
+    /* color:#fff; */
+    background-color: #c5c5c5;
+    border-radius: 1rem;
+    justify-content: center;
+    align-content: center;
+    margin: 1rem;
+    font-size: larger;
+    cursor: pointer;
+}
+.card:hover{
+    color: #262626;
+    background-color: whitesmoke;
+}
+.body{
+    margin: 2rem;
+    font-size: larger;
+}

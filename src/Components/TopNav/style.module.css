@@ -1,0 +1,21 @@
+.top {
+    /* height: 1rem; */
+    width: auto;
+    display: flex;
+    padding: 1rem;
+    background-color: #43425d;
+    align-items: center;
+  }
+.button {
+    height: 2rem;
+    width: 5rem;
+    float: right;
+    margin-left: auto;
+    background-color: #262626;
+    color: #fff;
+    border: transparent;
+  }
+  .button:hover {
+    color: #262626;
+    background-color: whitesmoke;
+  }
